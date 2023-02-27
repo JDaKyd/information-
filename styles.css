@@ -10,6 +10,7 @@ background-color: lightslategray;
 h1{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  color: lightskyblue;
+
 }
 
 body{
@@ -22,5 +23,11 @@ hr{
 
 img{
   border:10px solid darkgrey;
-  size-adjust: 5px;
+  size-adjust: -10px;
+}
+
+li{
+  color:antiquewhite;
+  size-adjust: 10px;
+  border:10px solid black;
 }

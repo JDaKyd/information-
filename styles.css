@@ -19,6 +19,7 @@ body{
 
 hr{
   color:whitesmoke;
+  size: 10xp;
 }
 
 img{
@@ -27,7 +28,13 @@ img{
 }
 
 li{
-  color:antiquewhite;
+  color:whitesmoke;
   size-adjust: 10px;
-  border:10px solid black;
+  border:5px solid blue;
+}
+
+h2{
+  color:beige;
+  background-color: lightslategray;
+  border: 10xp solid blue;
 }

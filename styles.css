@@ -38,3 +38,8 @@ h2{
   background-color: lightslategray;
   border: 10xp solid blue;
 }
+
+a{
+  color:aliceblue;
+  text-decoration: none;
+}
